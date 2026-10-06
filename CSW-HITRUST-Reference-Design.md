@@ -66,7 +66,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -145,10 +145,10 @@ analysis, privacy programme elements, or assessor judgement.
 | NIST CSF / others (per your factor analysis) | Risk program alignment |
 
 > **Cross-reference:** This repo includes dedicated CSW runbooks for
-> [HIPAA](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/HIPAA/CSW-HIPAA-Technical-Runbook.md),
-> [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md),
-> [NIST SP 800-53](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md), and
-> [PCI DSS v4.0](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md). Use them when
+> [HIPAA](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/HIPAA/CSW-HIPAA-Technical-Runbook.md),
+> [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md),
+> [NIST SP 800-53](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md), and
+> [PCI DSS v4.0](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md). Use them when
 > your HITRUST statement explicitly cites those underlying requirements.
 
 ### 1.2 HITRUST Domain Themes → CSW Capabilities (Summary)
@@ -373,10 +373,10 @@ When your MyCSF mapping cites an underlying clause, consult the matching repo ru
 
 | If your PRS traces to… | See Also |
 |---|---|
-| HIPAA Security Rule technical/administrative themes | [HIPAA](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/HIPAA/CSW-HIPAA-Technical-Runbook.md) |
-| ISO 27001 Annex A (network logging, segregation) | [ISO 27001](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) |
-| NIST 800-53 AC/SC/AU/SI families | [NIST 800-53](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) |
-| PCI DSS Req 1/10/11-style evidence | [PCI DSS v4](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) |
+| HIPAA Security Rule technical/administrative themes | [HIPAA](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/HIPAA/CSW-HIPAA-Technical-Runbook.md) |
+| ISO 27001 Annex A (network logging, segregation) | [ISO 27001](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) |
+| NIST 800-53 AC/SC/AU/SI families | [NIST 800-53](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) |
+| PCI DSS Req 1/10/11-style evidence | [PCI DSS v4](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) |
 
 ---
 
@@ -502,10 +502,10 @@ interpretation** for CSW evidence:
 
 | Framework | Path |
 |---|---|
-| HIPAA | [../HIPAA/CSW-HIPAA-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/HIPAA/CSW-HIPAA-Technical-Runbook.md) |
-| ISO/IEC 27001:2022 | [../ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) |
-| NIST SP 800-53 | [../NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) |
-| PCI DSS v4.0 | [../PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) |
+| HIPAA | [../HIPAA/CSW-HIPAA-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/HIPAA/CSW-HIPAA-Technical-Runbook.md) |
+| ISO/IEC 27001:2022 | [../ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) |
+| NIST SP 800-53 | [../NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) |
+| PCI DSS v4.0 | [../PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) |
 
 ---
 
@@ -521,4 +521,4 @@ interpretation** for CSW evidence:
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
